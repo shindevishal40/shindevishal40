@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on - Writing blogs, trying to maintian my personal website too.
 
-🌱 Have a look at my website, <img alt="Personal Website" src="https://www.vishalshinde.com" /> <img alt="Personal Website" src=" https://img.shields.io/badge/Personal%20%Website-8A2BE2">
+🌱 Have a look at my website, <img alt="Personal Website" src="https://www.vishalshinde.com" /> <img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-8A2BE2">
 
 💬 Would love to discuss on - PHP,Javascript, ES6,Typescript,GraphQL,MongoDB,Postgres,MySQL
 
@@ -63,16 +63,16 @@
 <div align="center">
  <div>
    <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thivagar-manickam&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="thivagar-manickam" />
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shindevishal40&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="vishal-shinde" />
    </p>
   </div>
  </div>
 <br><h2></h2><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thivagar-manickam&count_private=true&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=shindevishal40&count_private=true&theme=radical&show_icons=true" />
 
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thivagar-manickam&layout=compact&theme=radical"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shindevishal40&layout=compact&theme=radical"
 />
 
 **My Recent Articles/Blog post 📘**
