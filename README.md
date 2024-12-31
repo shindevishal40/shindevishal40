@@ -9,18 +9,18 @@
 
 🔭 I’m currently working on - Writing blogs, trying to maintian my personal website too.
 
-🌱 Have a look at my website,  <a href="https://www.vishalshinde.com"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-8A2BE2" > </a>
+🌱 Have a look at my website,  <p><a href="https://www.vishalshinde.com"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-8A2BE2" > </a></p>
 
 💬 Would love to discuss on - PHP,Javascript, ES6,Typescript,GraphQL,MongoDB,Postgres,MySQL
 
 :computer: Current Interest - Python, Data Analytics, Machine learning
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/vishalshivajishinde/">
+📫 How to reach me: <p><a href="https://www.linkedin.com/in/vishalshivajishinde/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
   />
-</a>
+</a> </p>
 
 **Have worked in:**
 <p>
