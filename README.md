@@ -2,15 +2,16 @@
   Hey, Thanks for checking out my profile. Glad to see you here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 <h3 align="center">
-  Now lets figure out Who am I? A passionate Full Stack Developer with a desire to explore more about software development :smile: or a Devops Guy who has just started getting into the sea of devops.
+  Now lets figure out Who am I?
 </h3>
+<h4>  A passionate Full Stack Developer with a desire to explore more about software development :smile: or a Devops Guy who has just started getting into the sea of devops. </h4>
 <h3>Well I am a combination of both. Currently digging into Frontend,Backend and Devops,Data Analytics, Machine Learning . :wink:</h3>
 
 🔭 I’m currently working on - Writing blogs, trying to maintian my personal website too.
 
-🌱 Have a look at my website, <img alt="Personal Website" src="https://www.vishalshinde.com" /> <img alt="Python" src="https://www.vishalshinde.com">
+🌱 Have a look at my website, <img alt="Personal Website" src="https://www.vishalshinde.com" /> <img alt="Python" src="[https://www.vishalshinde.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjES0_EkYc2fdlztifyY1as6j4QBFtiV_jQ&s)">
 
-💬 Would love to discuss on - PHP,Javascript, ES6,Typescript,GraphQL,MongoDB,Postgres
+💬 Would love to discuss on - PHP,Javascript, ES6,Typescript,GraphQL,MongoDB,Postgres,MySQL
 
 :computer: Current Interest - Python, Data Analytics, Machine learning
 
