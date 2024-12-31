@@ -32,6 +32,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" />
+   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /> 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
   <img alt="MySQL" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
