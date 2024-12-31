@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on - Writing blogs, trying to maintian my personal website too.
 
-🌱 Have a look at my website, <img alt="Personal Website" src="https://www.vishalshinde.com" /> <img alt="Python" src="[https://www.vishalshinde.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjES0_EkYc2fdlztifyY1as6j4QBFtiV_jQ&s)">
+🌱 Have a look at my website, <img alt="Personal Website" src="https://www.vishalshinde.com" /> <img alt="Personal Website" src=" https://img.shields.io/badge/Personal%20%Website-8A2BE2">
 
 💬 Would love to discuss on - PHP,Javascript, ES6,Typescript,GraphQL,MongoDB,Postgres,MySQL
 
