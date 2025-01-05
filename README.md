@@ -7,7 +7,7 @@
 <h4>  A passionate Full Stack Developer with a desire to explore more about software development :smile: or a Devops Guy who has just started getting into the sea of devops. </h4>
 <h3>Well I am a combination of both. Currently digging into Frontend,Backend and Devops,Data Analytics, Machine Learning . :wink:</h3>
 
-🔭 I’m currently working on - Writing blogs, trying to maintian my personal website too.
+🔭 I’m currently working on - Writing blogs, trying to maintain my personal website too.
 
 🌱 Have a look at my website,  <p><a href="https://www.vishalshinde.com"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-8A2BE2" > </a></p>
 
